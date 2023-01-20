@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C3433007296EBF4100DA334A /* HeroHeaderUIView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3433006296EBF4100DA334A /* HeroHeaderUIView.swift */; };
 		C3F84464296DB118002D6E38 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F84463296DB118002D6E38 /* AppDelegate.swift */; };
 		C3F84466296DB118002D6E38 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F84465296DB118002D6E38 /* SceneDelegate.swift */; };
 		C3F84468296DB118002D6E38 /* MainTabBarViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C3F84467296DB118002D6E38 /* MainTabBarViewController.swift */; };
@@ -20,6 +21,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C3433006296EBF4100DA334A /* HeroHeaderUIView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HeroHeaderUIView.swift; sourceTree = "<group>"; };
 		C3F84460296DB118002D6E38 /* NetflixClone.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NetflixClone.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		C3F84463296DB118002D6E38 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		C3F84465296DB118002D6E38 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -95,6 +97,7 @@
 			isa = PBXGroup;
 			children = (
 				C3F84485296DC0D0002D6E38 /* CollectionViewTableViewCell.swift */,
+				C3433006296EBF4100DA334A /* HeroHeaderUIView.swift */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				C3F8447D296DB34D002D6E38 /* SearchViewController.swift in Sources */,
 				C3F84468296DB118002D6E38 /* MainTabBarViewController.swift in Sources */,
 				C3F84486296DC0D0002D6E38 /* CollectionViewTableViewCell.swift in Sources */,
+				C3433007296EBF4100DA334A /* HeroHeaderUIView.swift in Sources */,
 				C3F8447F296DB368002D6E38 /* DownloadsViewController.swift in Sources */,
 				C3F84464296DB118002D6E38 /* AppDelegate.swift in Sources */,
 				C3F84479296DB2FB002D6E38 /* HomeViewController.swift in Sources */,
